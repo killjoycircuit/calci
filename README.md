@@ -10,6 +10,8 @@ A simple calculator built with HTML, CSS, and JS.
 2. Open `index.html` in any browser.
 3. Use on-screen buttons or your keyboard to calculate.
 
+![Screenshot](asset/screenshot.png)
+
 
 
 
