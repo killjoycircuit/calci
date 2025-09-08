@@ -1,4 +1,4 @@
-A simple calci built with HTML, CSS, and JS.
+A calci built with HTML, CSS, and JS.
 
 📁 Files
 - `index.html` — Markup of the calculator.
@@ -11,6 +11,7 @@ A simple calci built with HTML, CSS, and JS.
 3. Use on-screen buttons or your keyboard to calculate.
 
 ![Screenshot](asset/screenshot.png)
+
 
 
 
